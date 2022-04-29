@@ -22,6 +22,18 @@ function Comp() {
                     <Box>UnU</Box>
                 </Column>
             </Row>
+
+            <Row>
+                <Column>
+                    <Box>xd</Box>
+                    <Box>a</Box>
+                </Column>
+
+                <Column>
+                    <Box>xd2</Box>
+                    <Box>a2</Box>
+                </Column>
+            </Row>
         </View>
     );
 }
